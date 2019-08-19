@@ -1,0 +1,7 @@
+numpy==1.15.3
+panda==0.3.1
+pandas==0.23.4
+requests==2.20.0
+requests-cache==0.4.13
+pyspark==2.4.3
+py4j==0.10.7
